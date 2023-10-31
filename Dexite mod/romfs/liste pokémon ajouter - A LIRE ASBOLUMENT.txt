@@ -1,0 +1,64 @@
+
+----------------- MOD (ALPHA) DU NATIONAL DEX MOD DE POKEMON EPEE ET BOUCLIER ---------------
+
+
+Pokémon ajouté parmi les 233 pokémons inexistant dans pokémon épée et bouclier
+
+ - Tout les pokémon 1 génération, quelque bug d'animation mais pas génant, incompatible avec la dynamax
+ - Tout les pokémon 2 génération (numériquement certain on un model 3D)
+ - GERMIGNON
+ - KAIMINUS
+ - ALIGATUEUR
+ - MIGALOS
+ - FORETRESS
+ - GIRAFARIG
+ - VOLCAROPOD
+ - DEMOLOSSE
+ - POMDEPIK
+ - MEDHYENA
+ - GREHYENA (numériquement uniquement, pas de model3D)
+ - CHENIPOTTE (numériquement uniquement, pas de model3D)
+ - ARMULYS (numériquement uniquement, pas de model3D)
+ - CAMERUPT (numériquement uniquement, pas de model3D)
+ - SPINDA (numériquement uniquement, pas de model3D)
+ - SIMIABRAZ (numériquement uniquement, pas de model3D)
+ - KEUNOTOR
+ - CASTORNO (numériquement uniquement, pas de model3D)
+ - LOVDISC
+ - TROPIUS
+ - TORTIPOUSS (numériquement uniquement, pas de model3D)
+ - TORTERRA
+ - PINGOLEON
+ - CHARKOS
+ - BASTIODON (numériquement uniquement, pas de model3D)
+ - VIPELIERRE (numériquement uniquement, pas de model3D)
+ - MAJASPIC
+ - GRUIKUI (numériquement uniquement, pas de model3D)
+ - ROITIFLAM
+ - ZEBLITZ
+ - ANCHWATT (numériquement uniquement, pas de model3D)
+ - MELOETTA
+ - BAZOUCAN
+ - HELEDELLE
+ - AMPHINOBI (non compatible avec la dynamax, risque de softlock)
+ - BLINDEPIQUE
+ - COUAFAREL (non compatible avec la dynamax, risque de softlock)
+ - DENDICRISSE (non compatible avec la dynamax, risque de softlock)
+
+bug:
+
+- Les pokemon capable d'évolué comme abo ne peuvent pas évoluer, le entrée d'évolution pas encore codée
+- icone sprite pas encore ajouté dans le jeu
+- petit bug d'affichage des pokémons manquant et des pokemons DLC au soin dans le centre pokémon
+- impossible pour ces pokemon d'attraper un ballon dans le pokécamping, peuvent uniquement le pousser
+- quelque problème visuelle (des ouvertures et des trous dans le model3D de ces pokémons) et autre bug visuelle
+- pas de cris sauf dans le pokécamping avec le plumo
+- impossible de récupéré un oeuf de ces pokémons (l'oeuf disparait automatiquement après l'avoir récupéré)
+- autre bug mineur
+
+Pour obtenir un de ces pokémon dans votre sauvegarde vous devrait utiliser PKHEX et transféré votre pokémon 
+dans votre sauvegarde de Pokémon épée ou bouclier et ensuite mettre votre sauvegarde dans votre jeu
+
+parti randomisé avec le mod non testé
+
+en tout cas merci d'avoir téléchargé le mod ^^.

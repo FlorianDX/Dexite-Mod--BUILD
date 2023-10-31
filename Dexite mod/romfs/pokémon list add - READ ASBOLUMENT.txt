@@ -1,0 +1,64 @@
+----------------- MOD (ALPHA) NATIONAL DEX MOD OF POKEMON SWORD AND SHIELD ---------------
+
+
+
+Pokemon added among 233 removed on Sword/Shield
+
+ - All pokemon 1 generation, some animation bug but not annoying, incompatible with the dynamax
+ - All pokemon 2 generation (digitally some have a 3D model)
+ - CHIKORITA
+ - TOTODILE
+ - FERALIGATR
+ - ARIADOS
+ - GIRAFARIG
+ - MAGCARGO
+ - PINECO
+ - FORRETRESS
+ - HOUNDOOM
+ - POOCHYENA
+ - MIGHTYENA (only digitally, no 3D model) 
+ - WURMPLE (only digitally, no 3D model)
+ - SILCOON (only digitally, no 3D model)
+ - CAMERUPT (only digitally, no 3D model)
+ - SPINDA (only digitally, no 3D model)
+ - INFERNAPE (only digitally, no 3D model)
+ - BIDOOF
+ - BIBAREL (only digitally, no 3D model)
+ - LUVDISC
+ - TROPIUS
+ - TURTWIG (only digitally, no 3D model)
+ - TORTERRA
+ - EMPOLEON
+ - RAMPARDOS (only digitally, no 3D model)
+ - BASTIODON (only digitally, no 3D model)
+ - TEPIG (only digitally, no 3D model)
+ - EMBOAR
+ - SNIVY (only digitally, no 3D model)
+ - SERPERIOR
+ - ZEBSTRIKA
+ - TYNAMO (only digitally, no 3D model)
+ - MELOETTA
+ - TOUCANON
+ - SWELLOW
+ - GRENINJA (not compatible with dynamax, risk of softlock)
+ - CHESNAUGHT
+ - FURFROU (not compatible with dynamax, risk of softlock)
+ - BRUXISH (not compatible with dynamax, risk of softlock)
+
+bug:
+
+- Pokemon aren't capable of evolving yet
+- Pokemon respective sprite icons aren't implemented yet
+- Pokemon cries aren't implemented yet
+- Pokemon can't breed yet (Eggs disappear automatically after picked)
+- Some visual bugs on Pokemon Center (sprite wise)
+- Pokemon aren't capable of catching the ball at Poke Camp, only push it
+- Various visual bugs (When a Pokemon enters in the battle) 
+- More minor bugs
+
+To get one of these pokemon in your save you should use PKHEX and transfer your pokemon
+in your Pokémon Sword or Shield save and then put your save in your game
+
+Randomizer mods aren't tested yet
+
+Thank you for downloading this mod ^^. Thanks to Lexio and Patomenza for the English translation :D
