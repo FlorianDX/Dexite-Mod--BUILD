@@ -4,7 +4,7 @@
 
 Pokémon ajouté parmi les 233 pokémons inexistant dans pokémon épée et bouclier
 
- - Tout les pokémon 1 génération, quelque bug d'animation mais pas génant, incompatible avec la dynamax
+ - Tout les pokémon 1 génération (+ Rattata d'alola), quelque bug d'animation mais pas génant, incompatible avec la dynamax
  - Tout les pokémon 2 génération (numériquement certain on un model 3D)
  - GERMIGNON
  - KAIMINUS
@@ -19,7 +19,8 @@ Pokémon ajouté parmi les 233 pokémons inexistant dans pokémon épée et bouc
  - GREHYENA (numériquement uniquement, pas de model3D)
  - CHENIPOTTE (numériquement uniquement, pas de model3D)
  - ARMULYS (numériquement uniquement, pas de model3D)
- - CAMERUPT (numériquement uniquement, pas de model3D)
+ - CAMERUPT
+ - SEVIPER
  - SPINDA (numériquement uniquement, pas de model3D)
  - SIMIABRAZ (numériquement uniquement, pas de model3D)
  - KEUNOTOR
@@ -27,10 +28,13 @@ Pokémon ajouté parmi les 233 pokémons inexistant dans pokémon épée et bouc
  - LOVDISC
  - TROPIUS
  - TORTIPOUSS (numériquement uniquement, pas de model3D)
+ - BOSKARA
  - TORTERRA
- - PINGOLEON
+ - PINGOLEO
+ - ETOURAPTOR (numériquement uniquement, pas de model3D)
  - CHARKOS
  - BASTIODON (numériquement uniquement, pas de model3D)
+ - SCORVOL (numériquement uniquement, pas de model3D)
  - VIPELIERRE (numériquement uniquement, pas de model3D)
  - MAJASPIC
  - GRUIKUI (numériquement uniquement, pas de model3D)

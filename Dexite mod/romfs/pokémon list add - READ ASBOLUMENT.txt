@@ -4,7 +4,7 @@
 
 Pokemon added among 233 removed on Sword/Shield
 
- - All pokemon 1 generation, some animation bug but not annoying, incompatible with the dynamax
+ - All pokemon 1 generation (+ alola rattata), some animation bug but not annoying, incompatible with the dynamax
  - All pokemon 2 generation (digitally some have a 3D model)
  - CHIKORITA
  - TOTODILE
@@ -19,7 +19,8 @@ Pokemon added among 233 removed on Sword/Shield
  - MIGHTYENA (only digitally, no 3D model) 
  - WURMPLE (only digitally, no 3D model)
  - SILCOON (only digitally, no 3D model)
- - CAMERUPT (only digitally, no 3D model)
+ - CAMERUPT
+ - SEVIPER
  - SPINDA (only digitally, no 3D model)
  - INFERNAPE (only digitally, no 3D model)
  - BIDOOF
@@ -27,10 +28,13 @@ Pokemon added among 233 removed on Sword/Shield
  - LUVDISC
  - TROPIUS
  - TURTWIG (only digitally, no 3D model)
+ - GROTLE
  - TORTERRA
  - EMPOLEON
+ - STARAPTOR (only digitally, no 3D model)
  - RAMPARDOS (only digitally, no 3D model)
  - BASTIODON (only digitally, no 3D model)
+ - GLISCOR (only digitally, no 3D model)
  - TEPIG (only digitally, no 3D model)
  - EMBOAR
  - SNIVY (only digitally, no 3D model)
