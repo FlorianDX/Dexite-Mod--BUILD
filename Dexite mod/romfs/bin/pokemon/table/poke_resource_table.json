@@ -12220,6 +12220,53 @@
     },
     {
       Metadata: {
+        Species: 212,
+        AltForm: 1
+      },
+      ModelPath: "bin/pokemon/pm0248_00/mdl/pm0248_00.gfbmdl",
+      ConfigPath: "bin/pokemon/pm0248_00/pm0248_00.gfbpokecfg",
+      ArchivePath: "bin/archive/pokemon/pm0212_51.gfpak",
+      Animations: [
+        {
+          Name: "battle",
+          Path: "bin/pokemon/pm0248_00/anm/pm0248_00_battle.gfbanmcfg"
+        },
+        {
+          Name: "camp",
+          Path: "bin/pokemon/pm0248_00/anm/pm0248_00_camp.gfbanmcfg"
+        },
+        {
+          Name: "field",
+          Path: "bin/pokemon/pm0248_00/anm/pm0248_00_field.gfbanmcfg"
+        }
+      ]
+    },
+    {
+      Metadata: {
+        Species: 212,
+        AltForm: 1,
+        Shiny: true
+      },
+      ModelPath: "bin/pokemon/pm0248_00/mdl/pm0248_00_rare.gfbmdl",
+      ConfigPath: "bin/pokemon/pm0248_00/pm0248_00.gfbpokecfg",
+      ArchivePath: "bin/archive/pokemon/pm0212_51.gfpak",
+      Animations: [
+        {
+          Name: "battle",
+          Path: "bin/pokemon/pm0248_00/anm/pm0248_00_battle.gfbanmcfg"
+        },
+        {
+          Name: "camp",
+          Path: "bin/pokemon/pm0248_00/anm/pm0248_00_camp.gfbanmcfg"
+        },
+        {
+          Name: "field",
+          Path: "bin/pokemon/pm0248_00/anm/pm0248_00_field.gfbanmcfg"
+        }
+      ]
+    },
+    {
+      Metadata: {
         Species: 213
       },
       ModelPath: "bin/pokemon/pm0213_00/mdl/pm0213_00.gfbmdl",
@@ -21962,6 +22009,51 @@
         {
           Name: "field",
           Path: "bin/pokemon/pm0454_01/anm/pm0454_01_field.gfbanmcfg"
+        }
+      ]
+    },
+    {
+      Metadata: {
+        Species: 457
+      },
+      ModelPath: "bin/pokemon/pm0091_00/mdl/pm0091_00.gfbmdl",
+      ConfigPath: "bin/pokemon/pm0091_00/pm0091_00.gfbpokecfg",
+      ArchivePath: "bin/archive/pokemon/pm0457_00.gfpak",
+      Animations: [
+        {
+          Name: "battle",
+          Path: "bin/pokemon/pm0091_00/anm/pm0091_00_battle.gfbanmcfg"
+        },
+        {
+          Name: "camp",
+          Path: "bin/pokemon/pm0091_00/anm/pm0091_00_camp.gfbanmcfg"
+        },
+        {
+          Name: "field",
+          Path: "bin/pokemon/pm0091_00/anm/pm0091_00_field.gfbanmcfg"
+        }
+      ]
+    },
+    {
+      Metadata: {
+        Species: 457,
+        Shiny: true
+      },
+      ModelPath: "bin/pokemon/pm0091_00/mdl/pm0091_00_rare.gfbmdl",
+      ConfigPath: "bin/pokemon/pm0091_00/pm0091_00.gfbpokecfg",
+      ArchivePath: "bin/archive/pokemon/pm0457_00.gfpak",
+      Animations: [
+        {
+          Name: "battle",
+          Path: "bin/pokemon/pm0091_00/anm/pm0091_00_battle.gfbanmcfg"
+        },
+        {
+          Name: "camp",
+          Path: "bin/pokemon/pm0091_00/anm/pm0091_00_camp.gfbanmcfg"
+        },
+        {
+          Name: "field",
+          Path: "bin/pokemon/pm0091_00/anm/pm0091_00_field.gfbanmcfg"
         }
       ]
     },
@@ -39385,6 +39477,53 @@
     },
     {
       Metadata: {
+        Species: 741,
+        AltForm: 1
+      },
+      ModelPath: "bin/pokemon/pm0028_00/mdl/pm0028_00.gfbmdl",
+      ConfigPath: "bin/pokemon/pm0028_00/pm0028_00.gfbpokecfg",
+      ArchivePath: "bin/archive/pokemon/pm0825_01.gfpak",
+      Animations: [
+        {
+          Name: "battle",
+          Path: "bin/pokemon/pm0028_00/anm/pm0028_00_battle.gfbanmcfg"
+        },
+        {
+          Name: "camp",
+          Path: "bin/pokemon/pm0028_00/anm/pm0028_00_camp.gfbanmcfg"
+        },
+        {
+          Name: "field",
+          Path: "bin/pokemon/pm0028_00/anm/pm0028_00_field.gfbanmcfg"
+        }
+      ]
+    },
+    {
+      Metadata: {
+        Species: 741,
+        AltForm: 1,
+        Shiny: true
+      },
+      ModelPath: "bin/pokemon/pm0028_00/mdl/pm0028_00_rare.gfbmdl",
+      ConfigPath: "bin/pokemon/pm0028_00/pm0028_00.gfbpokecfg",
+      ArchivePath: "bin/archive/pokemon/pm0825_01.gfpak",
+      Animations: [
+        {
+          Name: "battle",
+          Path: "bin/pokemon/pm0028_00/anm/pm0028_00_battle.gfbanmcfg"
+        },
+        {
+          Name: "camp",
+          Path: "bin/pokemon/pm0028_00/anm/pm0028_00_camp.gfbanmcfg"
+        },
+        {
+          Name: "field",
+          Path: "bin/pokemon/pm0028_00/anm/pm0028_00_field.gfbanmcfg"
+        }
+      ]
+    },
+    {
+      Metadata: {
         Species: 742
       },
       ModelPath: "bin/pokemon/pm0834_00/mdl/pm0834_00.gfbmdl",
@@ -49364,7 +49503,52 @@
         }
       ]
     },
+    {
+      Metadata: {
+        Species: 900
+      },
+      ModelPath: "bin/pokemon/pm0212_00/mdl/pm0212_00.gfbmdl",
+      ConfigPath: "bin/pokemon/pm0212_00/pm0212_00.gfbpokecfg",
+      ArchivePath: "bin/archive/pokemon/pm1002_00.gfpak",
+      Animations: [
         {
+          Name: "battle",
+          Path: "bin/pokemon/pm0212_00/anm/pm0212_00_battle.gfbanmcfg"
+        },
+        {
+          Name: "camp",
+          Path: "bin/pokemon/pm0212_00/anm/pm0212_00_camp.gfbanmcfg"
+        },
+        {
+          Name: "field",
+          Path: "bin/pokemon/pm0212_00/anm/pm0212_00_field.gfbanmcfg"
+        }
+      ]
+    },
+    {
+      Metadata: {
+        Species: 900,
+        Shiny: true
+      },
+      ModelPath: "bin/pokemon/pm0212_00/mdl/pm0212_00_rare.gfbmdl",
+      ConfigPath: "bin/pokemon/pm0212_00/pm0212_00.gfbpokecfg",
+      ArchivePath: "bin/archive/pokemon/pm1002_00.gfpak",
+      Animations: [
+        {
+          Name: "battle",
+          Path: "bin/pokemon/pm0212_00/anm/pm0212_00_battle.gfbanmcfg"
+        },
+        {
+          Name: "camp",
+          Path: "bin/pokemon/pm0212_00/anm/pm0212_00_camp.gfbanmcfg"
+        },
+        {
+          Name: "field",
+          Path: "bin/pokemon/pm0212_00/anm/pm0212_00_field.gfbanmcfg"
+        }
+      ]
+    },
+    {
       Metadata: {
         Species: 1007
       },
